@@ -1,7 +1,7 @@
 export default {
     title: 'WMN CMS Documentation',
     dest: '/docs',
-    base: '/docs',
+    base: '/wmn-cms-docs',
     ignore: [
       'README.md',
     ],
