@@ -10,7 +10,7 @@ export default {
       { name: 'Basics', menu: ['Logging In and Out', 'Umbraco Interface'] },
       { name: 'Content', menu: ['Creating, Saving and Publishing Content', 'Edit Content', 'Ordering Pages', 'Deleting and Restoring Pages'] },
       { name: 'Misc', menu: ['Search'] },
-      { name: 'Major Roadworks & Events', menu: ['Overview', 'Add Travel Tips', 'Edit the main hub page'] }
+      { name: 'Major Roadworks & Events', menu: ['Overview', 'Travel Tips', 'Edit the main hub page', 'Add or Edit a main event page'] }
     ],
     menuDisplayName: {
       UI: "User Interface",
