@@ -8,7 +8,7 @@
     "serve": "docz serve"
   },
   "dependencies": {
-    "@nejcm/docz-theme-extended": "^1.4.1",
+    "@nejcm/docz-theme-extended": "^2.0.12",
     "docz": "latest",
     "gatsby-plugin-sass": "2.1.17",
     "node-sass": "4.12.0",
